@@ -342,7 +342,7 @@ Dependência: Utiliza a biblioteca requests para realizar a chamada HTTP ao serv
 
 Comunicação: O Flask utiliza o nome do serviço (hostname) definido no Compose, http://service_a:5000/users, para a comunicação interna.
 
-Processamento: Recebe o JSON, itera sobre ele e constrói um HTML formatado #(<h1>, <ul>, <li>)# para o cliente final.
+Processamento: Recebe o JSON, itera sobre ele e constrói um HTML formatado para o cliente final.
 
 4. Orquestração e Comunicação no Compose
 
