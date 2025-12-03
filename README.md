@@ -13,10 +13,11 @@ Python: Linguagem usada na implementação dos serviços.
 SQLite e PostgreeSQL: Bancos de Dados utilizados.
 
 🧩 Desafios Concluídos (1 a 4)
+
 As soluções para os desafios abaixo estão organizadas em seus respectivos diretórios: /desafio1, /desafio2, /desafio3 e /desafio4.
 
 
-📦 Desafio 1: Containers em Rede (Flask e Cliente cURL)
+<h2>📦 Desafio 1: Containers em Rede (Flask e Cliente cURL)</h2>
 
 🎯 Objetivo
 
@@ -98,7 +99,7 @@ O server recebe a requisição, processa e envia a resposta.
 O client imprime a resposta no seu log de saída, confirmando a troca de mensagens.
 
 
-💾 Desafio 2: Volumes e Persistência (SQLite)
+<h2>💾 Desafio 2: Volumes e Persistência (SQLite)</h2>
 
 🎯 Objetivo
 
@@ -173,7 +174,7 @@ A presença de registros de execuções anteriores no log da nova execução com
 
 
 
-🔗 Desafio 3: Docker Compose Orquestrando Serviços (Web, DB e Cache)
+<h2>🔗 Desafio 3: Docker Compose Orquestrando Serviços (Web, DB e Cache)</h2>
 
 🎯 Objetivo
 
@@ -267,7 +268,8 @@ Conexão Cache: O web se conecta ao cache (Redis) na porta 6379, insere uma chav
 
 Resposta: O web retorna uma página HTML que exibe o status e a versão dos serviços db e cache, confirmando a comunicação bem-sucedida entre os três containers.
 
-🔄 Desafio 4: Microsserviços Independentes (Comunicação HTTP)
+
+<h2>🔄 Desafio 4: Microsserviços Independentes (Comunicação HTTP)</h2>
 
 🎯 Objetivo
 
