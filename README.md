@@ -1,4 +1,5 @@
 🌟 Projeto 2 da disciplina de Fundamentos da Computação Concorrente, Paraelela e Distribúida no curso de ADS da CESAR School. 🌟
+
 Este repositório contém as soluções para a atividade prática que será utilizada como composição da nota da AV2 da disciplina.
 
 ⚙️ Tecnologias Principais
