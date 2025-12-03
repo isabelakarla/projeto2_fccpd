@@ -1,6 +1,7 @@
-🌟 Projeto 2 da disciplina de Fundamentos da Computação Concorrente, Paraelela e Distribúida no curso de ADS da CESAR School. 🌟
+<h2 align="center">🌟 Projeto 2 da disciplina de Fundamentos da Computação Concorrente, Paraelela e Distribúida no curso de ADS da CESAR School. 🌟</h2>
 
-Este repositório contém as soluções para a atividade prática que será utilizada como composição da nota da AV2 da disciplina.
+<h3 align="center"> Este repositório contém as soluções para a atividade prática que será utilizada como composição da nota da AV2 da disciplina. </h3>
+
 
 ⚙️ Tecnologias Principais
 
@@ -11,6 +12,7 @@ Docker Compose: Orquestração e gerenciamento de ambientes multi-container.
 Python: Linguagem usada na implementação dos serviços.
 
 SQLite e PostgreeSQL: Bancos de Dados utilizados.
+
 
 🧩 Desafios Concluídos (1 a 4)
 
