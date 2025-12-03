@@ -1,0 +1,22 @@
+services:
+  server:
+    build: .
+    container_name: servidor_web
+    ports:
+      - "8080:8080"
+    networks:
+      - minha_rede
+
+  client:
+    build: ./client
+    container_name: cliente_requisicoes
+    networks:
+      - minha_rede
+    depends_on:
+      - server
+
+networks:
+  minha_rede:
+    driver: bridge
+
+#organizaaaaar ;)

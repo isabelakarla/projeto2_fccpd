@@ -1,0 +1,10 @@
+services:
+  db_app:
+    build: ./app
+    container_name: app_persistencia
+    volumes:
+      - dados_sqlite:/data
+    restart: always
+
+volumes:
+  dados_sqlite:
