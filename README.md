@@ -3,6 +3,7 @@
 Este repositório contém as soluções para a atividade prática que será utilizada como composição da nota da AV2 da disciplina.
 
 ⚙️ Tecnologias Principais
+
 Docker: Conteinerização de serviços.
 
 Docker Compose: Orquestração e gerenciamento de ambientes multi-container.
@@ -31,7 +32,7 @@ client: Um cliente que realiza requisições HTTP para o servidor.
 
 A comunicação é estabelecida pela rede minha_rede, definida no docker-compose.yml, que permite o Service Discovery entre os containers.
 
-Componentes
+Componentes:
 
 Arquivo/Pasta
 
